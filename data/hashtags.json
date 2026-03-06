@@ -1,0 +1,43 @@
+{
+  "general": {
+    "cozy": [
+      "#CozyVibes", "#ComfortZone", "#ChillVibes", "#Relax", "#HomeSweetHome",
+      "#WarmAndCozy", "#Snug", "#Comfortable", "#Peaceful", "#Calm",
+      "#Serene", "#Tranquil", "#Zen", "#Mindful", "#Wellness"
+    ],
+    "playful": [
+      "#FunTimes", "#Playful", "#Adventure", "#Exciting", "#Joyful",
+      "#HappyVibes", "#Cheerful", "#Energetic", "#Vibrant", "#Dynamic",
+      "#Lively", "#Spontaneous", "#Whimsical", "#Creative", "#Imaginative"
+    ],
+    "professional": [
+      "#Professional", "#Business", "#Corporate", "#Executive", "#Leadership",
+      "#Success", "#Achievement", "#Growth", "#Innovation", "#Quality",
+      "#Excellence", "#Reliable", "#Trustworthy", "#Expert", "#Authority"
+    ]
+  },
+  "food": {
+    "cozy": ["#ComfortFood", "#CozyVibes", "#HomeCooking", "#WarmMeal", "#SoulFood"],
+    "playful": ["#Yummy", "#FoodFun", "#Delicious", "#Tasty", "#Foodie"]
+  },
+  "travel": {
+    "peaceful": ["#GoldenHour", "#TravelPhotography", "#Scenic", "#Nature", "#Peaceful"],
+    "aesthetic": ["#Wanderlust", "#Beautiful", "#Stunning", "#Aesthetic", "#Artistic"],
+    "professional": ["#BusinessTrip", "#CorporateTravel", "#Executive", "#Luxury", "#Premium"]
+  },
+  "nature": {
+    "cozy": ["#Nature", "#Peaceful", "#Serene", "#Tranquil", "#Calm"],
+    "playful": ["#Adventure", "#Explore", "#Wildlife", "#Outdoor", "#Fun"],
+    "professional": ["#Photography", "#Landscape", "#NaturePhotography", "#Professional", "#Art"]
+  },
+  "tech": {
+    "cozy": ["#TechLife", "#Digital", "#Innovation", "#Future", "#Smart"],
+    "playful": ["#TechFun", "#Gadgets", "#Gaming", "#CoolTech", "#Awesome"],
+    "professional": ["#Technology", "#Innovation", "#BusinessTech", "#DigitalTransformation", "#TechLeader"]
+  },
+  "fashion": {
+    "cozy": ["#Style", "#Fashion", "#Elegant", "#Chic", "#Sophisticated"],
+    "playful": ["#FashionFun", "#Trendy", "#Vibrant", "#Colorful", "#Creative"],
+    "professional": ["#BusinessAttire", "#CorporateStyle", "#ProfessionalWear", "#Executive", "#Polished"]
+  }
+}
